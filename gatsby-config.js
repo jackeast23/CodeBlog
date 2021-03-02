@@ -6,6 +6,11 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+      title: 'Code Desk Diaries.',
+      author: 'Jack East'
+
+  },
   plugins: [
       'gatsby-plugin-sass'
   ]

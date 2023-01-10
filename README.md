@@ -5,4 +5,4 @@ I built the blog to learn react and practice using gatsby
 
 The blog post are created using contentful as a CMS
 
-It is hosted using netlify at https://distracted-newton-e7c85e.netlify.app
+It is hosted using netlify at hhttps://jackeastcodeblog.netlify.app
